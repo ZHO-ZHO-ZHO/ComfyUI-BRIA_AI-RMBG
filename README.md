@@ -14,7 +14,14 @@ Unofficial [BRIA Background Removal v1.4](https://huggingface.co/briaai/RMBG-1.4
 
 - BRIA Background Removal v1.4：由 BRIA AI 开发，可作为非商业用途的开源模型
 
-- 版本：V1.0 
+- 版本：**V1.5** 支持批量处理（可去除视频背景）、新增输出 mask 功能
+
+## 视频演示 
+
+SVD1.1 + RMBG 1.4 = 
+
+https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG/assets/140084057/fdae7655-bcd0-4250-9d9b-a88b59f80d43
+
 
 
 ## 安装 | Install
@@ -42,6 +49,8 @@ Unofficial [BRIA Background Removal v1.4](https://huggingface.co/briaai/RMBG-1.4
 ## 更新日志
 
 - 20240207
+
+  V1.5 支持批量处理、新增输出 mask 功能
 
   创建项目 V1.0 
 
