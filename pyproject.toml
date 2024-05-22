@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-bria_ai-rmbg"
+description = "Unofficial implementation of BRIA RMBG Model for ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-BRIA_AI-RMBG"
+Icon = ""
